@@ -10,7 +10,7 @@ function App() {
         </div>
         <div className="col-sm-12 col-md-6 p-0 right">
           <div className="row no-gutters d-flex nameParent">
-            <div className="col name align-self-end mx-4 px-3">Test</div>
+            <div className="col name align-self-end mx-4 px-3">Testt</div>
           </div>
           <div className="row no-gutters">
             <div className="col title my-3 mx-4 px-3">Programmer</div>
